@@ -1,0 +1,15 @@
+﻿@model Category
+
+<div class="container px-5 my-5">
+    <form method="post" asp-action="UpdateCategory">
+        <input class="form-control" name="id" type="hidden" value="@Model.Id" />
+        <div class="form-floating mb-3">
+            <input class="form-control" name="name" id="name" type="text" placeholder="Name" data-sb-validations="required" value="@Model.Name" />
+            <label for="name">Name</label>
+        </div>
+        <div class="d-grid">
+            <button class="btn btn-primary btn-lg" id="submitButton" type="submit">Submit</button>
+        </div>
+    </form>
+</div>
+<script

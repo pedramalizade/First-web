@@ -1,0 +1,723 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\db\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\db\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\interface\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\interface\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\service\\prodctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\service\\prodctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\interface\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\interface\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\interface\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\interface\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\interface\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\interface\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\db\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\db\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\interface\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\interface\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\account\\chooseaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\account\\chooseaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\models\\interface\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\models\\interface\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|c:\\users\\asus\\source\\repos\\cw17-maktab\\showproducts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{046A6C34-52CA-4961-A71B-69133184228C}|ShowProducts\\ShowProducts.csproj|solutionrelative:showproducts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 388,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:44:02.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\appsettings.json",
+              "RelativeDocumentMoniker": "ShowProducts\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\appsettings.json",
+              "RelativeToolTip": "ShowProducts\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T17:17:41.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Memory.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Memory.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Memory.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Memory.cs",
+              "RelativeToolTip": "ShowProducts\\Memory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:22:59.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T15:41:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:40:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:31:49.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChooseAction.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Account\\ChooseAction.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Account\\ChooseAction.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Account\\ChooseAction.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Account\\ChooseAction.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:03:40.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ShowProducts\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:02:20.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T11:51:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Interface\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Service\\IUserService.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Interface\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:55:42.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ShowProducts\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:13:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwBYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:44:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Program.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Program.cs",
+              "RelativeToolTip": "ShowProducts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:38:15.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T11:11:02.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T17:34:55.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T07:03:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T16:02:26.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Service\\UserService.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Service\\UserService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:59:44.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\User.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:51:42.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShowProducts\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:44:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Interface\\Service\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Interface\\Service\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:51:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Category.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:33:16.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Interface\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Interface\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:54:46.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:56:22.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Service\\CategoryService.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Service\\CategoryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:52:02.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ShowProducts\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:58:27.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Db\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Db\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Db\\ProductDbContext.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Db\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:35:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Product.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:57:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShowProducts\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:00:40.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Db\\InMemoryDatabase.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Db\\InMemoryDatabase.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Db\\InMemoryDatabase.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Db\\InMemoryDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:56:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T16:03:29.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Interface\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Interface\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:42:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:48:02.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T08:08:34.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Interface\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Interface\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:47:23.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdctService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Service\\ProdctService.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Service\\ProdctService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Service\\ProdctService.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Service\\ProdctService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:55:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T10:56:53.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T07:23:25.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShowProducts\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShowProducts\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T10:57:01.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\Interface\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\Interface\\Service\\IProductService.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\Interface\\Service\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:54:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ShowProducts\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\cw17-maktab\\ShowProducts\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ShowProducts\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:57:55.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

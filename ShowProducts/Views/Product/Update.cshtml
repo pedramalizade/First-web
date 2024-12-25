@@ -1,0 +1,24 @@
+﻿@model Product
+
+<div class="container px-5 my-5">
+    <form method="post" asp-action="UpdateProduct">
+        <input class="form-control" name="id" type="hidden" value="@Model.Id" />
+        <div class="form-floating mb-3">
+            <input class="form-control" name="name" id="name" type="text" placeholder="Name" data-sb-validations="required" value="@Model.Name" />
+            <label for="name">Name</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input class="form-control" name="price" id="price" type="text" placeholder="Price" data-sb-validations="required" value="@Model.price" />
+            <label for="price">Price</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input class="form-control" name="quantity" id="quantity" type="text" placeholder="Quantity" data-sb-validations="required" value="@Model.Qantity" />
+            <label for="quantity">Quantity</label>
+        </div>
+
+        <div class="d-grid">
+            <button class="btn btn-primary btn-lg" id="submitButton" type="submit">Submit</button>
+        </div>
+    </form>
+</div>
+<script
